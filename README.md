@@ -31,3 +31,26 @@ python3 week07/functions.py
 - Debugging Python code
 - Using Git to track changes
 - Uploading assignments to GitHub
+
+
+## Reflection
+
+### 1. Git Commit History
+
+```
+3ce39d3 Update repository README
+5cec4ea Add Module 7 Python functions
+f83f2a9 Add Python gitignore
+a672e01 Initial commit
+```
+
+If I were hiring someone and saw this history I would think they worked in an organized way and kept track of their progress. The commit messages show what changes were made and make it easier to understand how the project developed.
+
+### 2. How Git Changes My Approach
+
+Before this module, I would usually make changes directly to my Python files without keeping track of previous versions. Now I would make smaller changes and commit them regularly so I could go back to an earlier version if something stopped working. This would also make it easier to work with other people on a project.
+
+### 3. What I Would Add to .gitignore
+
+I would add `.vscode/` to my `.gitignore` because VS Code creates settings files that are specific to my computer and coding environment. These files are not necessary for my Python program to run, and uploading them could create unnecessary changes when collaborating with classmates.
+  
